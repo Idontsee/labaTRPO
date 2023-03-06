@@ -1,0 +1,8 @@
+C:\Users\Андрей\source\repos\aba 14\aba 14\bin\Debug\aba 14.exe.config
+C:\Users\Андрей\source\repos\aba 14\aba 14\bin\Debug\aba 14.exe
+C:\Users\Андрей\source\repos\aba 14\aba 14\bin\Debug\aba 14.pdb
+C:\Users\Андрей\source\repos\aba 14\aba 14\obj\Debug\MinApp.csproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\aba 14\aba 14\obj\Debug\MinApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Андрей\source\repos\aba 14\aba 14\obj\Debug\MinApp.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\aba 14\aba 14\obj\Debug\aba 14.exe
+C:\Users\Андрей\source\repos\aba 14\aba 14\obj\Debug\aba 14.pdb
